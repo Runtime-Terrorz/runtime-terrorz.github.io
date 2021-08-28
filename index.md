@@ -32,7 +32,7 @@ As we progress through the development of this web application, our vision for t
 
 ## Vaccines Administrated Page
 
-<img src="images/VACCINES.png">
+<img width="200px" src="images/VACCINES.png">
 
 ## Lab/Testing Page
 
