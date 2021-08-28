@@ -1,4 +1,5 @@
-## Overview
+## Goal
+
 
 
 As we progress through the development of this web application, our vision for the layout of our application will reflect the following pages:
@@ -15,30 +16,29 @@ As we progress through the development of this web application, our vision for t
 
 ## Landing Page
 
-<img src="images/LANDING.png">
+<img width="600px" src="images/LANDING.png">
 
 ## Sign in/Sign up Page
 
-<img src="images/LOGIN.png">
-<img src="images/REGISTER.png">
+<img width="600px" src="images/LOGIN.png"><img width="600px" src="images/REGISTER.png">
 
 ## Medication Inventory Page
 
-<img src="images/INVENTORY.png">
+<img width="600px" src="images/INVENTORY.png">
 
 ## Patient Supplies Page
 
-<img src="images/SUPPLIES.png">
+<img width="600px" src="images/SUPPLIES.png">
 
 ## Vaccines Administrated Page
 
-<img width="200px" src="images/VACCINES.png">
+<img width="600px" src="images/VACCINES.png">
 
 ## Lab/Testing Page
 
-<img src="images/TESTING.png"/>
+<img width="600px" src="images/TESTING.png"/>
 
 ## Search Patient Page
 
-<img src="images/SEARCH_PATIENT.png"/>
+<img width="600px" src="images/SEARCH_PATIENT.png"/>
 
