@@ -20,7 +20,7 @@ As we progress through the development of this web application, our vision for t
 
 ## Sign in/Sign up Page
 
-<img width="600px" src="images/LOGIN.png"><img width="600px" src="images/REGISTER.png">
+<img width="400px" src="images/LOGIN.png"><img width="400px" src="images/REGISTER.png">
 
 ## Medication Inventory Page
 
