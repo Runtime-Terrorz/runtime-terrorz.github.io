@@ -1,4 +1,6 @@
-## Goal
+## Hawaii HOME Poject
+
+### Goal
 
 The goal of Hawaii HOME Project is to create a mobile application to aid a medical clinic to keep track of current inventory of medications and supplies, vaccines records, and have acess to patient's health information. 
 
@@ -14,31 +16,31 @@ As we progress through the development of this web application, our vision for t
 - Search Patient Page
 - Patient Information Page
 
-## Landing Page
+### Landing Page
 
 <img width="600px" src="images/LANDING.png">
 
-## Sign in/Sign up Page
+### Sign in/Sign up Page
 
 <img width="400px" src="images/LOGIN.png"><img width="400px" src="images/REGISTER.png">
 
-## Medication Inventory Page
+### Medication Inventory Page
 
 <img width="600px" src="images/INVENTORY.png">
 
-## Patient Supplies Page
+### Patient Supplies Page
 
 <img width="600px" src="images/SUPPLIES.png">
 
-## Vaccines Administrated Page
+### Vaccines Administrated Page
 
 <img width="600px" src="images/VACCINES.png">
 
-## Lab/Testing Page
+### Lab/Testing Page
 
 <img width="600px" src="images/TESTING.png"/>
 
-## Search Patient Page
+### Search Patient Page
 
 <img width="600px" src="images/SEARCH_PATIENT.png"/>
 
