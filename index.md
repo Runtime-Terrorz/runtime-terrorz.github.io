@@ -8,17 +8,13 @@ As we progress through the development of this web application, our vision for t
 
 - Landing Page
 - Sign in/Sign up Page
-- Medication Inventory Page
-- Patient Supplies Page
-- Vaccines Administrated Page
-- Lab/Testing Page
-- Add Medication Page*
-- Search Patient Page
-- Patient Information Page
+- Inventory Page
+- Edit Inventory
+- Add Order
 
 ### Landing Page
 
-<img width="600px" src="images/landing.png">
+<img width="600px" src="images/LANDING.png">
 
 ### Sign in/Sign up Page
 
