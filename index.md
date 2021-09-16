@@ -18,29 +18,20 @@ As we progress through the development of this web application, our vision for t
 
 ### Landing Page
 
-<img width="600px" src="images/LANDING.png">
+<img width="600px" src="images/landing.png">
 
 ### Sign in/Sign up Page
 
-<img width="400px" src="images/LOGIN.png"><img width="400px" src="images/REGISTER.png">
+<img width="400px" src="images/signin.png"><img width="400px" src="images/signup.png">
 
-### Medication Inventory Page
+### Inventory Page
 
-<img width="600px" src="images/INVENTORY.png">
+<img width="600px" src="images/listinventory.png">
 
-### Patient Supplies Page
+### Edit Inventory
 
-<img width="600px" src="images/SUPPLIES.png">
+<img width="600px" src="images/editinventory.png">
 
-### Vaccines Administrated Page
+### Add Order
 
-<img width="600px" src="images/VACCINES.png">
-
-### Lab/Testing Page
-
-<img width="600px" src="images/TESTING.png"/>
-
-### Search Patient Page
-
-<img width="600px" src="images/SEARCH_PATIENT.png"/>
-
+<img width="600px" src="images/addorder.png">
