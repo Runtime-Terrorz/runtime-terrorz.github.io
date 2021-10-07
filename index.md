@@ -6,11 +6,12 @@ The goal of Hawaii HOME Project is to create a mobile application to aid a medic
 
 As we progress through the development of this web application, our vision for the layout of our application will reflect the following pages:
 
-- Landing Page
 - Sign in/Sign up Page
-- Inventory Page
-- Edit Inventory
+- Landing Page
 - Add Order
+- Inventory Page
+- Low-Inventory Report Page
+- Edit Inventory
 
 ### Sign in/Sign up Page
 
@@ -30,7 +31,7 @@ As we progress through the development of this web application, our vision for t
 
 ### Low-Inventory Notification
 
-<img width="600px" src="images/notification.png">
+<img width="600px" src="images/notifications.png">
 
 ### Low-Inventory Report
 
