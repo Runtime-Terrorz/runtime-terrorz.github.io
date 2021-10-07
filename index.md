@@ -31,7 +31,7 @@ As we progress through the development of this web application, our vision for t
 
 ### Low-Inventory Notification
 
-<img width="600px" src="images/notifications.png">
+<img width="200px" src="images/notifications.png">
 
 ### Low-Inventory Report
 
