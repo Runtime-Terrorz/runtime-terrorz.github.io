@@ -12,22 +12,32 @@ As we progress through the development of this web application, our vision for t
 - Edit Inventory
 - Add Order
 
+### Sign in/Sign up Page
+
+<img width="400px" src="images/signin.png"><img width="400px" src="images/signup.png">
+
 ### Landing Page
 
 <img width="600px" src="images/LANDING.png">
 
-### Sign in/Sign up Page
+### Add Order
 
-<img width="400px" src="images/signin.png"><img width="400px" src="images/signup.png">
+<img width="600px" src="images/addorder.png">
 
 ### Inventory Page
 
 <img width="600px" src="images/listinventory.png">
 
+### Low-Inventory Notification
+
+<img width="600px" src="images/notification.png">
+
+### Low-Inventory Report
+
+<img width="600px" src="images/report.png">
+
 ### Edit Inventory
 
 <img width="600px" src="images/editinventory.png">
 
-### Add Order
 
-<img width="600px" src="images/addorder.png">
