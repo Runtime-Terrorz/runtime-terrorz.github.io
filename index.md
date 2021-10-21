@@ -38,4 +38,8 @@ As we progress through the development of this web application, our vision for t
 
 <img width="600px" src="images/editinventory.png">
 
+### Dispense Inventory
+
+<img width="600px" src="images/dispense.png">
+
 
