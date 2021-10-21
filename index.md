@@ -15,7 +15,8 @@ As we progress through the development of this web application, our vision for t
 
 ### Sign in/Sign up Page
 
-<img width="400px" src="images/signin.png"><img width="400px" src="images/signup.png">
+<img width="600px" src="images/signin.png">
+<img width="600px" src="images/signup.png">
 
 ### Landing Page
 
