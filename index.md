@@ -34,10 +34,6 @@ As we progress through the development of this web application, our vision for t
 
 <img width="200px" src="images/notifications.png">
 
-### Low-Inventory Report
-
-<img width="600px" src="images/report.png">
-
 ### Edit Inventory
 
 <img width="600px" src="images/editinventory.png">
