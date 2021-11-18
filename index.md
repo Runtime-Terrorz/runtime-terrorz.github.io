@@ -68,7 +68,7 @@ Features encapsulated in the pages:
 
 ### Manage Accounts
 
-<img width=600px" src="images/manage-accounts.png">
+<img width="600px" src="images/manage-accounts.png">
 
 ### Log History
 
