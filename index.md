@@ -50,19 +50,19 @@ Features encapsulated in the pages:
 
 ### Notification
 
-<img width="200px" src="images/notifications.png">
+<img width="600px" src="images/notifications.png">
 
 ### Filter
 
-<img width="200px" src="images/filter-inventory.png">
+<img width="600px" src="images/filter-inventory.png">
 
 ### Seach By Name
 
-<img width="200px" src="images/search-inventory.png">
+<img width="600px" src="images/search-inventory.png">
 
 ### Dispense By Lot Number
 
-<img width="200px" src="images/dispense-bylot.png">
+<img width="600px" src="images/dispense-bylot.png">
 
 ## Admin and Super Level
 
