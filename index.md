@@ -10,8 +10,18 @@ As we progress through the development of this web application, our vision for t
 - Landing Page
 - Add Order
 - Inventory Page
-- Low-Inventory Report Page
 - Edit Inventory
+- Dispense
+
+Admin and Super Role:
+- Manage Accounts
+- Log History
+
+Features encapsulated in the pages: 
+- Notifications
+- Search Bar, Filter, Dispense by Lot (List Inventory Page)
+- Change Role, Remove Account (Manage Account Page)
+
 
 ### Sign in/Sign up Page
 
@@ -24,22 +34,44 @@ As we progress through the development of this web application, our vision for t
 
 ### Add Order
 
-<img width="600px" src="images/addorder.png">
+<img width="600px" src="images/add-item.png">
 
 ### Inventory Page
 
-<img width="600px" src="images/listinventory.png">
-
-### Low-Inventory Notification
-
-<img width="200px" src="images/notifications.png">
+<img width="600px" src="images/inventory.png">
 
 ### Edit Inventory
 
-<img width="600px" src="images/editinventory.png">
+<img width="600px" src="images/edit-item.png">
 
 ### Dispense Inventory
 
 <img width="600px" src="images/dispense.png">
+
+### Notification
+
+<img width="200px" src="images/notifications.png">
+
+### Filter
+
+<img width="200px" src="images/filter-inventory.png">
+
+### Seach By Name
+
+<img width="200px" src="images/search-inventory.png">
+
+### Dispense By Lot Number
+
+<img width="200px" src="images/dispense-bylot.png">
+
+## Admin and Super Level
+
+### Manage Accounts
+
+<img width=600px" src="images/manage-accounts.png">
+
+### Log History
+
+<img width="600px" src="images/log-history.png">
 
 
