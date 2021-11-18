@@ -6,7 +6,7 @@ The goal of Hawaii HOME Project is to create a mobile application to aid a medic
 
 ### Deployment
 
-https://runtime-terror.xyz/#/
+[Runtime Terrorz] (https://runtime-terror.xyz/)
 
 As we progress through the development of this web application, our vision for the layout of our application will reflect the following pages:
 
