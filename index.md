@@ -10,16 +10,18 @@ The goal of Hawaii HOME Project is to create a mobile application to aid a medic
 
 As we progress through the development of this web application, our vision for the layout of our application will reflect the following pages:
 
-- Sign in/Sign up Page
+- Sign in/Sign up 
 - Landing Page
-- Add Order
+- Add Order Page
 - Inventory Page
-- Edit Inventory
-- Dispense
+- Edit Inventory Page
+- Dispense Page
+- Multi-Dispense Page
+- Low-Report Page
 
 Admin and Super Role:
-- Manage Accounts
-- Log History
+- Manage Accounts Page
+- Log History Page
 
 Features encapsulated in the pages: 
 - Notifications
@@ -42,7 +44,7 @@ Features encapsulated in the pages:
 
 ### Inventory Page
 
-<img width="600px" src="images/inventory.png">
+<img width="600px" src="images/list-inventory.png">
 
 ### Edit Inventory
 
@@ -67,6 +69,34 @@ Features encapsulated in the pages:
 ### Dispense By Lot Number
 
 <img width="600px" src="images/dispense-bylot.png">
+
+### Low-Report
+
+<img width="600px" src="images/report.png">
+
+### Items Added
+
+<img width="600px" src="images/items-added.png">
+
+### Items Dispensed
+
+<img width="600px" src="images/item-dispensed.png">
+
+### CSV Report
+
+<img width="600px" src="images/csv-report.png">
+
+### Dispense By Lot Number
+
+<img width="600px" src="images/dispense-bylot.png">
+
+### Multi-Dispense
+
+<img width="600px" src="images/multi-dispense.png">
+
+### CSV Report
+
+<img width="600px" src="images/items-multidispense.png">
 
 ## Admin and Super Level
 
