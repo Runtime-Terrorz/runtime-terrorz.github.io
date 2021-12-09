@@ -66,10 +66,6 @@ Features encapsulated in the pages:
 
 <img width="600px" src="images/search-inventory.png">
 
-### Dispense By Lot Number
-
-<img width="600px" src="images/dispense-bylot.png">
-
 ### Low-Report
 
 <img width="600px" src="images/report.png">
@@ -84,19 +80,15 @@ Features encapsulated in the pages:
 
 ### CSV Report
 
-<img width="600px" src="images/csv-report.png">
+<img width="400px" src="images/csv-report.png">
 
-### Dispense By Lot Number
-
-<img width="600px" src="images/dispense-bylot.png">
-
-### Multi-Dispense
+### Multi-Dispense Items
 
 <img width="600px" src="images/multi-dispense.png">
 
-### CSV Report
+### Multi-Dispense
 
-<img width="600px" src="images/items-multidispense.png">
+<img width="500px" src="images/items-multidispense.png">
 
 ## Admin and Super Level
 
