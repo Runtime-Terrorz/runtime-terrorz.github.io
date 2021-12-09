@@ -42,9 +42,17 @@ Features encapsulated in the pages:
 
 <img width="600px" src="images/add-item.png">
 
-### Inventory Page
+## Inventory Page
 
 <img width="600px" src="images/list-inventory.png">
+
+### Filter
+
+<img width="600px" src="images/filter-inventory.png">
+
+### Seach By Name
+
+<img width="600px" src="images/search-inventory.png">
 
 ### Edit Inventory
 
@@ -58,15 +66,7 @@ Features encapsulated in the pages:
 
 <img width="600px" src="images/notifications.png">
 
-### Filter
-
-<img width="600px" src="images/filter-inventory.png">
-
-### Seach By Name
-
-<img width="600px" src="images/search-inventory.png">
-
-### Low-Report
+## Low-Report
 
 <img width="600px" src="images/report.png">
 
@@ -82,7 +82,7 @@ Features encapsulated in the pages:
 
 <img width="400px" src="images/csv-report.png">
 
-### Multi-Dispense Items
+## Multi-Dispense Items
 
 <img width="600px" src="images/multi-dispense.png">
 
