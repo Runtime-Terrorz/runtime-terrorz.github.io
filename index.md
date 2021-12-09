@@ -84,7 +84,7 @@ Features encapsulated in the pages:
 
 ## Multi-Dispense Items
 
-<img width="600px" src="images/multi-dispense.png">
+<img width="500px" src="images/multi-dispense.png">
 
 ### Multi-Dispense
 
